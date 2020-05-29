@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         int a=10;
         int b=20;
         String str="fdsh";
-        String str2="abc;
+        String str2="abc";
     }
 }
